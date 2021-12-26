@@ -1,0 +1,207 @@
+proxies:
+  - {name: 🇭🇰 香港 -01, server: hk.15.shon-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 64", server: hk.10.hz-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -12, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -08, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 62", server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 250, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 57", server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -02, server: hk.10.hz-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 63", server: hk.15.shon-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 69", server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 68", server: gdgz.marslink.icu, port: 41100, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0d8943-dea3-4d9b-8ae1-cddb560b267c}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 291, server: iplc01.2333dns.com, port: 3083, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[12.26] 沐小悠 3", server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: "[12.26] 沐小悠 39", server: 117.28.243.165, port: 8050, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 40", server: 117.28.243.165, port: 8051, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 96", server: 211.99.96.19, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 78", server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 49, server: 211.99.96.13, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 8", server: 118.107.244.112, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: "[12.26] 沐小悠 11", server: 211.99.96.19, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 77", server: 117.28.243.165, port: 8051, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 87", server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 27", server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 81", server: 84.17.37.55, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: "[12.26] 沐小悠 82", server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 271, server: v32.88host.buzz, port: 18083, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[12.26] 沐小悠 7", server: 118.107.244.110, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: "[12.26] 沐小悠 10", server: 118.107.244.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: "[12.26] 沐小悠 74", server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 75", server: 211.99.96.12, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 90", server: 117.28.243.173, port: 2173, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 92", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 59, server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 6", server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 33", server: 211.99.96.15, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 80", server: 211.99.96.12, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 93", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 24", server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 253, server: hk.15.sh-02.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 48", server: 211.99.96.15, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 84", server: hk.15.sh-03.5566365.xyz, port: 568, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 28", server: iepl.hk.f6e8.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 83", server: iepl.hk.206f.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 5", server: 211.99.96.17, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 16", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 17", server: 117.28.243.220, port: 8254, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 32", server: iepl.hk.71bc.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 46", server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 86", server: iepl.hk.f663.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 287, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[12.26] 沐小悠 23", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 42", server: 117.28.243.173, port: 2173, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.26] 沐小悠 56", server: hk.15.sh-and.5566365.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 73", server: iepl.hk.31c4.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 30", server: iepl.hk.f663.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 43", server: 211.99.96.18, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 79", server: iepl.hk.f6e8.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 85", server: 211.99.96.18, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 71", server: 211.99.96.15, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 88", server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 95", server: iepl.hk.fda0.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 9", server: 211.99.96.4, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 45", server: 211.99.96.13, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 15", server: 120.232.82.190, port: 3002, type: ss, cipher: aes-256-gcm, password: 16b33a734063d5bb793634198ca90b73}
+  - {name: "[12.26] 沐小悠 91", server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 25", server: iepl.hk.31c4.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 36", server: jp-am46.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3oaJ5K2Wn, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: "[12.26] 沐小悠 13", server: 101.132.192.212, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: "[12.26] 沐小悠 19", server: jp-am48-9.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3H2aN5Gnm, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: "[12.26] 沐小悠 50", server: 211.99.96.17, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 58", server: hk.15.sh-02.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 72", server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 47", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 70", server: hk.10.cn-cm.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 14", server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: "[12.26] 沐小悠 49", server: 211.99.96.12, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 31", server: jp-am48-9.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3H2aN5Gnm, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: "[12.26] 沐小悠", server: iepl.sg.21ce.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 21", server: 211.99.96.36, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 12", server: jp-am46.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3oaJ5K2Wn, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: "[12.26] 沐小悠 65", server: hk.10.sh-002.5566365.xyz, port: 601, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 66", server: hk.15.sh-02.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 51", server: 211.99.96.36, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 52", server: 211.99.96.32, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 67", server: hk.15.sh-and.5566365.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 76", server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 54", server: hk.15.sh-and.5566365.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 鹏哥分享_156, server: iepl.sg.21ce.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 53", server: hk.15.cn-th.5566365.xyz, port: 562, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 29", server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: "[12.26] 沐小悠 34", server: iepl.hk.0686.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 4", server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: "[12.26] 沐小悠 61", server: hk.15.cn-th.5566365.xyz, port: 562, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 18", server: 211.99.96.9, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 20", server: 58.152.85.196, port: 2808, type: ss, cipher: aes-256-gcm, password: dbbdb5625d0268ef28240da6d67eb4c0}
+  - {name: "[12.26] 沐小悠 59", server: 58.152.85.196, port: 2808, type: ss, cipher: aes-256-gcm, password: dbbdb5625d0268ef28240da6d67eb4c0}
+  - {name: "[12.26] 沐小悠 60", server: 120.232.82.190, port: 3002, type: ss, cipher: aes-256-gcm, password: 16b33a734063d5bb793634198ca90b73}
+  - {name: "[12.26] 沐小悠 44", server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 48, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 37", server: 122.9.62.60, port: 10081, type: ss, cipher: chacha20-ietf-poly1305, password: dce4c0411b7146eb3d60ed21fd7a9e3e621ac67328fa30daa463f6ac071f4620}
+  - {name: "[12.26] 沐小悠 22", server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.26] 沐小悠 89", server: awsnet.hk.01.5566365.xyz, port: 22002, type: trojan, password: 9df07935-b402-4272-b2e7-219a040609d5, sni: trahk1.bitznet.pw, skip-cert-verify: false}
+  - {name: "[12.26] 沐小悠 55", server: hk.10.sh-002.5566365.xyz, port: 601, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 256, server: hk.10.sh-002.5566365.xyz, port: 601, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 250 2, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -01 2, server: hk.15.shon-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -02 2, server: hk.10.hz-cu.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 香港 -12 2, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: "[12.26] 沐小悠 2", server: hz.marslink.icu, port: 41100, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0d8943-dea3-4d9b-8ae1-cddb560b267c}
+  - {name: 🇭🇰 香港 -08 2, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 291 2, server: iplc01.2333dns.com, port: 3083, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~, server: v34.88host.buzz, port: 18067, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 V3-IEPL专线 香港HKBGP01 | 10x, server: iplc01.2333dns.com, port: 3083, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 2, server: hk.15.cu-hk.5566365.xyz, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 末晨 12/25_243, server: 118.107.244.112, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 专线|香港04|原生HGCBBS, server: v34.88host.buzz, port: 18067, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 3, server: iplc01.2333dns.com, port: 3083, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 190, server: v34.88host.buzz, port: 18067, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 139, server: v32.88host.buzz, port: 18083, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 199, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 火花带闪电_CN_中国_28, server: iepl.hk.31c4.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 271 2, server: v32.88host.buzz, port: 18083, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 57, server: v34.88host.buzz, port: 18080, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 4, server: v32.88host.buzz, port: 18083, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 火花带闪电_CN_中国_22, server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 5, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 V3-IEPL专线 香港HGC02 | 10x 原生IP, server: iplc01.2333dns.com, port: 3023, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 102, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: "[12.24] 🅥 沐小悠", server: 117.28.243.165, port: 8051, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 59 2, server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 专线|香港02|原生HGCBBS, server: v32.88host.buzz, port: 18065, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 10, server: 211.99.96.13, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇨🇳 火花带闪电_CN_中国_23, server: iepl.hk.206f.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 259, server: hk.15.cn-th.5566365.xyz, port: 562, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 6, server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.24] 🅥 沐小悠 2", server: 211.99.96.18, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 41, server: iepl.hk.f6e8.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 末晨 12/25_202, server: 118.107.244.110, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 末晨 12/25_256, server: 84.17.37.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA}
+  - {name: CYL-科技（祝大家圣诞快乐） 63, server: iepl.hk.31c4.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 25, server: 211.99.96.12, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 60, server: 211.99.96.17, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 末晨 12/25_143, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 专线|香港08|原生HKBN, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 V3-IEPL专线 香港HKG01 | 9x 原生IP, server: iplc01.2333dns.com, port: 3113, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港 -04, server: hk.15.sh-03.5566365.xyz, port: 568, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 末晨 12/25_227, server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 51, server: v32.88host.buzz, port: 18083, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 37, server: 211.99.96.15, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅", server: 211.99.96.13, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 2", server: 211.99.96.12, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 V3-IEPL专线 香港HGC03 | 10x 原生IP, server: iplc01.2333dns.com, port: 3123, type: vmess, uuid: 4e556978-4dc3-3f52-bfe6-9decf8bb16b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[12.24] 🅥 沐小悠 3", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 末晨 12/25_225, server: 211.99.96.17, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 339, server: iepl.hk.f6e8.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 368, server: 211.99.96.4, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 3", server: 117.28.243.173, port: 2173, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 4", server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 5", server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 香港 -11, server: hk.15.sh-and.5566365.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 47, server: 211.99.96.4, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 香港A, server: 117.28.243.220, port: 8254, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 6", server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 152, server: v12.88host.buzz, port: 18117, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 10, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 17, server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 336, server: v33.88host.buzz, port: 18066, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 7, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.24] 🅥 沐小悠 4", server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 34, server: iepl.hk.fda0.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 267, server: iepl.hk.71bc.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 专线|香港03|原生CMI, server: v33.88host.buzz, port: 18066, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 20, server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 287 2, server: v32.88host.buzz, port: 18083, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "🇭🇰 中转|香港HGC01|华南隧道[流媒体解锁]", server: cm-jm.okvpn.xyz, port: 20001, type: vmess, uuid: b029c5b8-023c-4549-8ed6-cca45aaab9b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: "%7B%22Host%22:%22cm-jm.okvpn.xyz%22%7D"}}
+  - {name: CYL-科技（祝大家圣诞快乐） 210, server: iepl.hk.023d.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇨🇳 火花带闪电_CN_中国_5, server: iepl.hk.fda0.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 303, server: 211.99.96.7, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.24] 🅥 沐小悠 5", server: 211.99.96.17, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 12, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 248, server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "🇭🇰 中转|香港HGC04|华南隧道[流媒体解锁]", server: cm-jm.okvpn.xyz, port: 20001, type: vmess, uuid: b029c5b8-023c-4549-8ed6-cca45aaab9b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: "%7B%22Host%22:%22cm-jm.okvpn.xyz%22%7D"}}
+  - {name: CYL-科技（祝大家圣诞快乐） 384, server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇹🇼 「优化」moon365.cc🇨🇳TW 272, server: v34.88host.buzz, port: 18080, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 48 2, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 7", server: 211.99.96.18, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇯🇵 日本1, server: jp-am46.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3oaJ5K2Wn, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: CYL-科技（祝大家圣诞快乐） 9, server: v12.88host.buzz, port: 18117, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（祝大家圣诞快乐） 7, server: v12.88host.buzz, port: 18118, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 232, server: v33.88host.buzz, port: 18066, type: vmess, uuid: c1ff7ecc-7b0d-3c4e-af21-4afa507f44e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇹🇼 基础|台湾02|视频主力, server: v12.88host.buzz, port: 18118, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[12.25] 裤佬祝你圣诞节快乐🎅 8", server: 211.99.96.15, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇨🇳 _CN_中国_来自张浩的圣诞礼物~ 8, server: hk.15.sh-and.5566365.xyz, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 39303:221515.xyz(53), obfs-param: ""}
+  - {name: 🇨🇳 火花带闪电_CN_中国_27, server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（2021.12.24） 98, server: v12.88host.buzz, port: 18118, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 末晨 12/25_234, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: CYL-科技（祝大家圣诞快乐） 245, server: 211.99.96.11, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇨🇳 火花带闪电_CN_中国_36, server: 120.232.82.190, port: 3002, type: ss, cipher: aes-256-gcm, password: 16b33a734063d5bb793634198ca90b73}
+  - {name: 🇭🇰 专线|香港01|原生HGCBBS, server: v31.88host.buzz, port: 18064, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇹🇼 专线|台湾04|原生HINET, server: v33.88host.buzz, port: 18081, type: vmess, uuid: 0e634ac9-82bb-366b-86a6-99e02968e497, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: CYL-科技（2021.12.24） 43, server: iepl.hk.4a75.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: "[12.24] 🅥 沐小悠 6", server: 211.99.96.16, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇯🇵 「优化」moon365.cc🇯🇵JP 143, server: jp-am46.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3oaJ5K2Wn, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: 12/22_142, server: 101.132.192.212, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🇨🇳 火花带闪电_CN_中国_19, server: iepl.hk.7512.linkit.dev, port: 11316, type: ss, cipher: aes-256-gcm, password: gTVvCY}
+  - {name: 🇭🇰 「优化」moon365.cc🇭🇰HK 256 2, server: hk.10.sh-002.5566365.xyz, port: 601, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 36058:221515.xyz(53), obfs-param: ""}
